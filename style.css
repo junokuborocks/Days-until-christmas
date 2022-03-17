@@ -1,0 +1,25 @@
+body{
+    background-image: url(Christmas.jpg);
+    background-size: cover;
+}
+
+h2{
+    font-size: 4rem;
+    color:white;
+    background-color: black;
+    text-align: center;
+   
+}
+h3{
+    font-size: 3rem;
+}
+.countdown{
+display:flex;
+align-items: center;
+justify-content: center;
+}
+
+.container{
+    margin: 50px 30px;
+    text-align: center;
+}
